@@ -1,0 +1,16 @@
+CONCEPTOS
+
+VARIABLES:
+En el mundo de la computación existen lugares en donde se guardan cosas, esos lugares se llaman "memorias". Una memoria es, por ejemplo, como una cajonera de ropa, zapatos, etc., en donde, en cada cajón se puede guardar una prenda a la vez, luego sacas esa prenda, pones otra en el mismo cajón, y así con todos los demás. Una variable es cada cajón de la cajonera.
+
+STRINGS:
+Un string es una o más: letras del alfabeto, números y/o símbolos, conectados de una manera específica para representar algún tipo de palabra, oración o información con cualquier tipo de combinación de éstos para un contexto determinado.
+
+FUNCIONES:
+Una función es una máquinita a la que se le puede agregar uno o varios elementos y dicha maquinita me devuelve otro elemento transformado a partír de los elementos agregados. Por ejemplo, una máquina para preparar café espresso: le ponemos café en polvo, agua, leche, etc., y después de darle la orden de preparar, nos devuelve un café espresso ya listo para beber.
+
+DECLARACIONES IF:
+Una condicional if, es un punto en el cual se toma una decisión, de acuerdo con los parámetros dados para dicha decisión. Ejemplo: Pienso salir a dar un paseo por el parque, si el día está lindo para caminar, salgo a caminar, si está lloviendo, mejor no salgo.
+
+VALORES BOOLEANOS (TRUE, FALSE):
+Un valor booleano indica el estado, falso o verdadero, cierto o no cierto, de algún elemento. Ejemplo: hoy me bañé antes de ir al colegio, será cierto o true si de hecho me bañé, o no cierto o falso si no me bañé.
